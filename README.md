@@ -64,6 +64,7 @@ Aden is a platform for building, deploying, operating, and adapting AI agents:
 ## Quick Start
 
 ### Prerequisites
+> 💡 For beginners: Make sure you have Python 3.11 or higher installed and added to your PATH before running the setup script.
 
 - [Python 3.11+](https://www.python.org/downloads/) for agent development
 - [Docker](https://docs.docker.com/get-docker/) (v20.10+) - Optional, for containerized tools
